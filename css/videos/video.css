@@ -1,0 +1,10 @@
+.video-carousel__wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.video-carousel__single video {
+    width: 100%;
+    border-radius: 10px;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
+}
